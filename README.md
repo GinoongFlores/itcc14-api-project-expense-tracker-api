@@ -4,7 +4,7 @@
   3. James Gica
   4. Raphael Magaso
 
-# MILESTONE I (first-second week of November)
+# MILESTONE I (Nov Week 1-2)
 ### What we'll do: 
 
 ### Deliverables: 
